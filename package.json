@@ -1,0 +1,21 @@
+{
+  "name": "mergedeep",
+  "version": "1.0.0",
+  "description": "Merge your primitive Objects with deep precision",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "merge",
+    "object",
+    "array",
+    "deep",
+    "mergedeep"
+  ],
+  "author": "Christopher Ribeiro <christo_campiglia@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
