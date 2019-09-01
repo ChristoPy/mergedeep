@@ -10,7 +10,7 @@ npm install @christopy/mergedeep
 # Importing
 
 ```javascript
-const mergedeep = require ("serve-here.js");
+const mergedeep = require ("@christopy/mergedeep");
 ```
 
 # Running
@@ -44,4 +44,4 @@ console.log(JSON.stringify(result));
 ```
 
 # Version
-1.0.1
+1.0.2

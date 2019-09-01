@@ -1,6 +1,6 @@
 {
   "name": "@christopy/mergedeep",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Merge your Objects easily",
   "main": "src/index.js",
   "scripts": {
