@@ -1,7 +1,7 @@
 {
   "name": "@christopy/mergedeep",
-  "version": "1.0.3",
-  "description": "Merge your Objects easily",
+  "version": "1.0.4",
+  "description": "Merge objects properties with ease.",
   "main": "src/index.js",
   "scripts": {
     "test": "jest"
