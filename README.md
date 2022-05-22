@@ -44,4 +44,4 @@ console.log(JSON.stringify(result));
 ```
 
 # Version
-1.0.2
+1.0.3
